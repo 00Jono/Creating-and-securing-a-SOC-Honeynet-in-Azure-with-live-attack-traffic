@@ -1,0 +1,1 @@
+# Creating-and-securing-a-SOC-Honeynet-in-Azure-with-live-attack-traffic
